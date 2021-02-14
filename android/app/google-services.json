@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714499521282",
+    "project_id": "fir-authebtication",
+    "storage_bucket": "fir-authebtication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714499521282:android:2d39cc9a1ddb8cbcd5a01b",
+        "android_client_info": {
+          "package_name": "com.technicaltask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714499521282-n9ho0vbo3kbi35ude0nu2tq9ls6b763p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzW6Uy-jTw2Ut3AMOa3nm-bp7eDkOxzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714499521282-n9ho0vbo3kbi35ude0nu2tq9ls6b763p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
